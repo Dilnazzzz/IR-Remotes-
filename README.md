@@ -1,4 +1,4 @@
-# IR Remotes inTinkercad
+# IR Remotes in Tinkercad
 
 In this project, I built a motor controlled by remote. I could also manipulate the speed of the motor. Such applications can be then used to create fans, IR Controlled cars or radio controlled cars. 
 
